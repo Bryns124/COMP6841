@@ -1,2 +1,2 @@
 # COMP6841
-CS-HACKS
+AssaultCube 1.2 Hacks
